@@ -47,13 +47,23 @@
 | 📱 [Social Media Platform](https://github.com/KaMRuNs/Social_Media_Platform) | React, Appwrite, ShadCN | React, Tailwind |
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KaMRuNs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KaMRuNs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaMRuNs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaMRuNs&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="KaMRuNs's GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaMRuNs&theme=tokyonight&hide_border=false" height="160" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KaMRuNs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=KaMRuNs&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ---
 
 ## 🎯 Fun Fact:
