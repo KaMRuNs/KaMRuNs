@@ -20,10 +20,10 @@
 
 ## 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/kamrun-nahar-kumkum" target="_blank">
+  <a href="https://www.linkedin.com/in/kamrun280803" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="[https://your-portfolio-link.com](https://kamruns.github.io/Portfolio_of_Kamrun-REACT/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white" />
   </a>
 </p>
